@@ -1,4 +1,4 @@
-/* Jen takovy test jestli to vazne funguje tak jak nam tvrdili :).
+/* POKUS HOVNO Jen takovy test jestli to vazne funguje tak jak nam tvrdili :).
 Vsechno co tu mam bude v realu vypadat jinak, ale zakladni pointa je takovahle,
 aspon tak to chapu ja. Pro lepsi predstavu jak to bude vypadat kouknete na link
 z changelogu. Jakekoliv pripominky mi hned piste, Matej.
